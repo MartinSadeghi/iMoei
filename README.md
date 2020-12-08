@@ -1,16 +1,21 @@
-### Hi there 👋
+Hello there 👋  
 
-<!--
-**iMoei/iMoei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iMoei)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+   Hi, it’s [Moei](www.moeisadeghi.com), I am a self taught iOS dev, based on Rome, 
+    
+   Privacy!?
+   I love reading books and surfing the net, also I have some tips for you as a developer, check it out 😊 [iMoei941](https://www.instagram.com/imoei941)
+
+  I’m currently learning everything🤣 + SwiftUI🥰 
+  I’m here to hear, you are always welcome ☺️ reach me out here [iMoei941](https://www.instagram.com/imoei941)
+ 
+ 
+  👯 I’m looking to collaborate with other content creators😎
+  🤔 I’m here to hear, reach me out here [iMoei941](https://www.instagram.com/imoei941)
+- 💬 Ask me about anythging in dm [iMoei941](https://www.instagram.com/imoei941)
+- 📫 How to reach me: [iMoei941](https://www.instagram.com/imoei941) 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: There is no imposibility!
+
