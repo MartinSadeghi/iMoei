@@ -14,8 +14,7 @@ Hello there 👋
  
   👯 I’m looking to collaborate with other content creators😎
   🤔 I’m here to hear, reach me out here [iMoei941](https://www.instagram.com/imoei941)
-- 💬 Ask me about anythging in dm [iMoei941](https://www.instagram.com/imoei941)
-- 📫 How to reach me: [iMoei941](https://www.instagram.com/imoei941) 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: There is no imposibility!
+  💬 Ask me about anythging in dm [iMoei941](https://www.instagram.com/imoei941)
+  📫 How to reach me: [iMoei941](https://www.instagram.com/imoei941) 
+  ⚡ Fun fact: There is no imposibility!
 
