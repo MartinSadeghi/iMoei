@@ -12,7 +12,7 @@ Hello there 👋
   I’m here to hear, you are always welcome, reach me out ☺️
  
  
-  👯 I’m looking to collaborate with other content creators😎
+  👯 I’m looking to collaborate with other content creators 😎
   
   🤔 I’m here to hear, reach me out
   
